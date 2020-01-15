@@ -1,6 +1,6 @@
 ## Suggestions
 
-On the last line of your class, instead of repeating self.position, you could type [self.position]*4. Would you maybe even be able to just say self.position = [mold]*4 ?
+On the last line of your class, instead of repeating self.position, you could type [self.position]*4. Would you maybe even be able to just say self.position = [mold]*4 instead of assigning it on two seperate lines?
 
 It looks like you tried formatting your docstring, but it makes it kinda strange to read because it doesn't actually format. 
 
